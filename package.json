@@ -2,18 +2,17 @@
   "name": "omicall-chat-sdk",
   "version": "1.0.0",
   "description": "React Native SDK for integrating Omicall LiveTalk chat into mobile applications",
-  "main": "index.js",
-  "types": "index.d.ts",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
   "exports": {
     ".": {
-      "require": "./index.js",
-      "import": "./index.js",
-      "types": "./index.d.ts"
+      "require": "./lib/index.js",
+      "import": "./lib/index.js",
+      "types": "./lib/index.d.ts"
     }
   },
   "files": [
-    "**/*.js",
-    "**/*.d.ts",
+    "lib/**/*",
     "README.md",
     "CHANGELOG.md"
   ],
@@ -39,7 +38,7 @@
   "bugs": {
     "url": "https://github.com/VIHATTeam/OMICall-React-Native-Chat-SDK/issues"
   },
-  "homepage": "https://github.com/omicall/rn-livetalk-sdk#readme",
+  "homepage": "https://github.com/VIHATTeam/OMICall-React-Native-Chat-SDK#readme",
   "dependencies": {
     "axios": "^1.6.0",
     "socket.io-client": "^4.7.0",
