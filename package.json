@@ -1,6 +1,6 @@
 {
   "name": "omicall-chat-sdk",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "React Native SDK for integrating Omicall LiveTalk chat into mobile applications",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
