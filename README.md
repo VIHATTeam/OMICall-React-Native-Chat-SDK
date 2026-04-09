@@ -1,5 +1,9 @@
 # omicall-chat-sdk
 
+[![npm version](https://img.shields.io/npm/v/omicall-chat-sdk)](https://www.npmjs.com/package/omicall-chat-sdk)
+[![npm downloads](https://img.shields.io/npm/dm/omicall-chat-sdk)](https://www.npmjs.com/package/omicall-chat-sdk)
+[![license](https://img.shields.io/npm/l/omicall-chat-sdk)](https://github.com/VIHATTeam/OMICall-React-Native-Chat-SDK/blob/main/LICENSE)
+
 React Native SDK for integrating [Omicall](https://omicall.com) chat into mobile applications.
 
 > **⚠️ Channel Support Notice**
