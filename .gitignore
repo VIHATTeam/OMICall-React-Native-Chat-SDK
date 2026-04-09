@@ -1,3 +1,6 @@
 node_modules/
 *.log
 .DS_Store
+
+# Internal docs — GitLab only, never push to GitHub public
+CLAUDE.md
