@@ -1,0 +1,6 @@
+# Publish everything except git metadata
+.git/
+.gitignore
+node_modules/
+*.log
+.DS_Store
